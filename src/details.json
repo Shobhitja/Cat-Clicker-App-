@@ -1,0 +1,14 @@
+
+
+[
+         { "name": "Boots", "nickName":"Bailey",   "src": "images/Boots.jpeg" , "id":"0" , "count" : 0},
+        { "name": "kiddos", "nickName":"kasper",  "src": "images/kiddos.jpeg"  , "id":"1" , "count" :0 },
+        { "name": "Loona", "nickName":"Lee",  "src": "images/Loona.jpeg"  , "id":"2" , "count" :0},
+        { "name": "Rick" , "nickName":"Riley",  "src": "images/Ricky.jpeg"  , "id":"3" , "count" :0},
+        { "name": "Tabby", "nickName":"tabby toby",  "src": "images/Tabby.jpeg" , "id":"4"  , "count" :0},
+        { "name": "Tiger", "nickName":"Taffy",  "src": "images/Tiger.jpeg"  , "id":"5" , "count" :0},
+        { "name": "Loona2", "nickName":"Loco",  "src": "images/Loona2.jpeg"  , "id":"6" , "count" :0},
+        { "name": "Ricky2", "nickName":"Rex",  "src": "images/Ricky2.jpeg" , "id":"7"  , "count" :0},
+        { "name": "Tiger5", "nickName":"Taco",  "src": "images/Tiger5.jpeg"  , "id":"8" , "count" :0},
+        { "name": "Boots8", "nickName":"Barry",   "src": "images/Boots8.jpeg" , "id":"9"  , "count" :0}
+  ]
